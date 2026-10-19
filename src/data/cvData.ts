@@ -9,7 +9,7 @@ export const personalInfo = {
 };
 
 export const summary =
-  'Ingeniero Informático y Desarrollador Full-Stack con más de 4 años de experiencia en desarrollo de aplicaciones web, multiplataforma y e-commerce. Especializado en arquitectura de software, microservicios, DevOps y código full-stack con enfoque en soluciones tecnológicas seguras, innovadoras y eficientes. Combino habilidades técnicas y creatividad para abordar desafíos con una mentalidad única y perspectiva amplia.';
+  'Ingeniero Informático y Desarrollador Full-Stack con más de 5 años de experiencia en desarrollo de aplicaciones web, multiplataforma y e-commerce. Especializado en arquitectura de software, microservicios, DevOps y código full-stack con enfoque en soluciones tecnológicas seguras, innovadoras y eficientes. Combino habilidades técnicas y creatividad para abordar desafíos con una mentalidad única y perspectiva amplia.';
 
 export interface Experience {
   role: string;
