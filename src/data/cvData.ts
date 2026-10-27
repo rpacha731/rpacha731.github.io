@@ -43,7 +43,7 @@ export const experiences: Experience[] = [
   {
     role: 'Full-Stack Dev',
     company: 'High Impact',
-    period: '06/2022 – Actualidad',
+    period: '06/2022 – 03/2026',
     tasks: [
       'Desarrollo y mantenimiento de proyectos con Docker, Java, Spring, Micronaut, Python, Node.js, GraphQL/Apollo, PostgreSQL, MySQL, Angular, Vue y React.',
       'Diseño arquitectónico y de base de datos para funcionalidades específicas.',
@@ -86,7 +86,7 @@ export const certifications = [
   'Vue 3 desde Cero (Udemy)',
   'GraphQL desde bases a APIs (Udemy)',
   'Nest - Backend escalable con Node (Udemy)',
-  'Universidad Angular (Udemy, en curso)',
+  'Universidad Angular (Udemy)',
   'Grafana Beginners to Advance (Udemy)',
   'Introducción a Vyper (Seminario IUA)',
   'Ciberdefensa (Seminario IUA)',
